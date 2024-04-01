@@ -29,6 +29,6 @@ Tech Fair 2024 was built through the collective effort of our dedicated team of 
 * **Collaboration:**  Forge partnerships with industry leaders and academic institutions to drive innovation.
 * **Sustainability:**  Implement eco-friendly practices to minimize the event's environmental impact.
 * **Accessibility:** Ensure that the event remains inclusive and accessible to all participants.
-* **Feedback: ** Gather feedback from attendees and stakeholders to continuously improve future editions.
+* **Feedback:** Gather feedback from attendees and stakeholders to continuously improve future editions.
 * **Global Reach:** Explore opportunities to expand the event's reach to a wider audience worldwide.
 * **Community Engagement:** Foster a strong sense of community among participants and stakeholders.
