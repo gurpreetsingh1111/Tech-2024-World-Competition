@@ -1,5 +1,5 @@
 # Tech-2024-World-Competition
-
+* **Dataset Link:** https://www.kaggle.com/datasets/ulrikeherold/tech-layoffs-2020-2024?select=tech_layoffs.xlsx
 ## Inspiration
 
 ## What it does
